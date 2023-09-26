@@ -1,0 +1,15 @@
+# The Site Configuration
+
+# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
+# esta es una prueba preueba 
+# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
+# otherwise, the layout language will use the default value of 'en'.
+lang: es-ES
+
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+timezone: America/Santiago
+
+title: " "  # the main title
+
+github:
+  username: melvincolmenares # change to your github username
